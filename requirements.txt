@@ -1,0 +1,9 @@
+langchain
+langchain-community
+tiktoken
+cassandra
+cassio
+langgraph
+langchain-huggingface
+langchain-groq
+langchainhub
